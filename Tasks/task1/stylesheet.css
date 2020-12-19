@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+.header{
+    background-color: orange;
+    text-align: center;
+    padding: 5px;
+}
+.nav{
+    background-color: gray;
+    padding: 10px;
+}
+.section{
+    width: 60%;
+    height: 450px;
+    background-color: lightblue;
+    float: left;
+    padding: 10px;
+}
+.aside{
+    width: 37%;
+    height: 450px;
+    background-color: lightgreen;
+    float: left;
+    padding: 10px;
+}
+.footer{
+    background-color:bisque;
+    padding: 10px;
+}
